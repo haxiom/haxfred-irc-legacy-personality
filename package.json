@@ -1,0 +1,23 @@
+{
+  "author": "Haxiom",
+  "name": "haxfred-irc-legacy-personality",
+  "description": "Basic actions for Haxfred on various emits",
+  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/haxiom/haxfred-irc-legacy-personality"
+  },
+  "main": "./lib/haxfred-irc-legacy-personality",
+  "keywords": [
+    "irc",
+    "haxfred"
+  ],
+  "bin": {
+  },
+  "dependencies": {
+    "lodash": "",
+    "haxfred-irc": ""
+  },
+  "engines": {
+    "node": "*"
+  }
+}
